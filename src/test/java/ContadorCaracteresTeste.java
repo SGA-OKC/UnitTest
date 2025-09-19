@@ -1,3 +1,4 @@
+
 import org.example.ContadorCaracteres;
 import org.junit.Test;
 
@@ -23,3 +24,6 @@ public class ContadorCaracteresTeste {
         assertEquals(0,resultado);
     }
 }
+
+
+
